@@ -82,4 +82,7 @@ A fully functional S3 bucket was created and configured with public read access 
 <img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/1a978bd6-7715-4629-a46e-189d72b41908" />
 
 
+rest of the output screenshots have been uploaded in the files section.
+
+
 ---
