@@ -72,6 +72,11 @@ The following files were uploaded to the S3 bucket:
 ##  Outcome:
 A fully functional S3 bucket was created and configured with public read access and encryption. Files were uploaded and verified to be securely stored and publicly accessible as per the internship requirements.
 
+
+
+**OUTPUT**
+<img width="2880" height="1800" alt="Image" src="https://github.com/user-attachments/assets/c503cb52-9eb6-4957-806a-75153e9e2022" />
+
 ---
 
 ##  Tools Used:
